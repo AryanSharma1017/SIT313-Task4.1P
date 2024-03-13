@@ -22,7 +22,6 @@ function App() {
       <Btm_section/>
       <Mid_section2/>
       <BottomBar/>
-      <BottomBar/>
     </div>
   );
 }
