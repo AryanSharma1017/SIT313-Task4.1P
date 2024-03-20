@@ -7,7 +7,7 @@ function Card(props)
     <h3>{props.name} </h3>
     <p> {props. description}</p>
     <div className='column2'>
-        {/* <p> {props. star}</p> */}
+        <p> {props. star}</p>
         <p> {props. Author}</p>
     </div>
     </div>
